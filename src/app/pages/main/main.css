@@ -1,0 +1,80 @@
+#home{
+    background-color: black;
+    color: white;
+    scroll-behavior: smooth;
+}
+#top{
+    padding: 150px;
+}
+#first{
+    padding: 20px;
+    font-size: 55px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+}
+#f1{
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: center;
+    text-align: center;
+}
+#im2{
+    text-align: center;
+}
+#about h2{
+    padding: 20px;
+    font-size: 55px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+    text-align: center;
+}
+#wht h2{
+    padding: 20px;
+    font-size: 55px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+}
+#wht{
+    text-align: center;
+}
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+#why h2{
+    padding: 20px;
+    font-size: 55px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+    text-align: center;
+}
+#ms1 h2{
+    padding: 20px;
+    font-size: 55px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+    text-align: center;
+}
+#contact {
+    background-color: rgba(255, 255, 255, 0.196);
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+}
+
+#home {
+  background-color: black;
+  color: white;
+}
